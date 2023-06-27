@@ -10,7 +10,7 @@ namespace ArrayTest
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Hello!  This will be an exerecise in array and list creation!");
+            Console.WriteLine("Hello!  This will be an exercise in array and list creation!");
             Console.WriteLine();
             Console.WriteLine("Try to get the lowest possible score. . .");
             Console.WriteLine();
